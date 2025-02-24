@@ -1,4 +1,4 @@
-# <Team Name>
+# DeepSeekers
 
 ## Project Topic
 
