@@ -1,0 +1,11 @@
+--Meeting with Plante (02/25)--
+
+- Kinetic Sunyaev-Zel'dovich (KSZ) Data Set
+  - Dr. Plante ran 1000 different simulations with different ionization scenarios.
+  - Each simulation generated a map and tau value.
+  - File format HDF5. Better efficiency for large data sets and has its own file system.
+
+- Can do simply calculations like mean median std and plot against tau.
+- Can make ML model to predict tau level (output) from photo (input)
+
+- Will send slimmed version of data set to test.
