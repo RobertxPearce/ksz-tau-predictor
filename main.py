@@ -3,14 +3,12 @@
 
 import numpy as np
 import h5py
-
 import torch
 from torch.utils.data import Dataset, DataLoader
 import torchvision.transforms as T
 import torch.nn.functional as F
-
 import matplotlib
-matplotlib.use('TkAgg')  # Set a compatible backend
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 
 
