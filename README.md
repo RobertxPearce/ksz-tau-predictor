@@ -5,6 +5,12 @@ This project explores whether machine learning can predict the optical depth (τ
 The τ value summarizes how much ionized gas scattered CMB photons along their journey from the early universe. Since the relationship between spatial kSZ features and τ is complex and nonlinear, we trained a neural network to learn this mapping and estimate τ values directly from kSZ maps.
 
 ## Dataset
+
+<img width="269" alt="Tau Value" src="https://github.com/user-attachments/assets/5a5986a8-162c-403b-8614-a89f69a8ee3f" />
+
+![kSZ Map](https://github.com/user-attachments/assets/3dd55538-1bff-46af-a598-87d00592aa9c)
+
+
 * **Source**: Simulations by Dr. Paul La Plante
 * **Size**: 1,000 reionization scenarios
 * **Each simulation includes**:
