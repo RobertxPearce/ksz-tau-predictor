@@ -60,8 +60,3 @@ The τ value summarizes how much ionized gas scattered CMB photons along their j
 ## Conclusion
 Successfully built a neural network to predict τ from simulated kSZ maps. Model captures trends but shows systematic bias toward the mean. Future work could include more complex models or better feature extraction techniques.
 
-### Contributors
-- Olivia Betancourt
-- Sidney Lopez
-- Alexander Gauthier
-- Robert Pearce
